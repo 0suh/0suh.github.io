@@ -1,4 +1,19 @@
-Software Engineering Q/A Sheet #2
+---
+title: "Software Engineering QA3"
+excerpt: " "
+
+categories:
+  - Software Engineering
+tags:
+  - [Blog, jekyll, Github, Git]
+
+toc: true
+toc_sticky: true
+
+date: 2021-10-01
+---
+
+oftware Engineering Q/A Sheet #2
 
 Questions from Prof.
 

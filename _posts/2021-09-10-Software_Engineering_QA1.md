@@ -1,3 +1,18 @@
+---
+title: "Software Engineering QA1"
+excerpt: " "
+
+categories:
+  - Software Engineering
+tags:
+  - [Blog, jekyll, Github, Git]
+
+toc: true
+toc_sticky: true
+
+date: 2021-09-10
+---
+
 Q/A Sheet #1- Introduction to SE
 
 Questions from Prof.
