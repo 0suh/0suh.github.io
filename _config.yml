@@ -4,7 +4,6 @@ email: yschin0508@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Software/Machine Learning Study
 show_excerpts: true # set to true to show excerpts on the homepage
-
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
@@ -24,19 +23,19 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: 
-    github:  0suh
+    twitter:
+    github: 0suh
 
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: __0_west
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: yschin0508@gmail.com
 
     # Mastodon instances
     # mastodon:
