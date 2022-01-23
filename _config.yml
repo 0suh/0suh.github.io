@@ -10,7 +10,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Youngsuh Chin
-  tagline: Software/Mathematics
+  tagline: Software. Mathematics. Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -25,17 +25,17 @@ plainwhite:
   social_links:
     twitter:
     github: 0suh
-
+    instagram: __0_west
+    email: yschin0508@gmail.com
     #dribbble: jekyll
     #flickr:   jekyll
-    instagram: __0_west
+
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    email: yschin0508@gmail.com
 
     # Mastodon instances
     # mastodon:
